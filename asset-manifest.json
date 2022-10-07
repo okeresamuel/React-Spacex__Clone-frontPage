@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/React-Spacex__Clone-frontPage/static/css/main.7accecef.css",
+    "main.js": "/React-Spacex__Clone-frontPage/static/js/main.3a90d9d1.js",
+    "static/media/Spacex4.png": "/React-Spacex__Clone-frontPage/static/media/Spacex4.11b82402ea5848d8d48d.png",
+    "static/media/Spacex2.png": "/React-Spacex__Clone-frontPage/static/media/Spacex2.fc39763350673f9e4c92.png",
+    "static/media/Spacex3.png": "/React-Spacex__Clone-frontPage/static/media/Spacex3.c49b80fcb9a1a7b3a65b.png",
+    "static/media/Spacex1.png": "/React-Spacex__Clone-frontPage/static/media/Spacex1.afa0388f8a74ad5a1b4b.png",
+    "static/media/spacexLogo.png": "/React-Spacex__Clone-frontPage/static/media/spacexLogo.68a04cd355a600607a39.png",
+    "index.html": "/React-Spacex__Clone-frontPage/index.html",
+    "main.7accecef.css.map": "/React-Spacex__Clone-frontPage/static/css/main.7accecef.css.map",
+    "main.3a90d9d1.js.map": "/React-Spacex__Clone-frontPage/static/js/main.3a90d9d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7accecef.css",
+    "static/js/main.3a90d9d1.js"
+  ]
+}
