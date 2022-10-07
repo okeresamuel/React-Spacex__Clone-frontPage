@@ -13,5 +13,14 @@
     position: relative;
     color: white;
     padding: 20px;
-    top: 300px;
+    top: 368px;
+}
+
+@media (min-width:700px){
+ .ImageOne__Container{
+    height:100vh;
+ }
+ .Image__One{
+    height:100vh;
+ }
 }
