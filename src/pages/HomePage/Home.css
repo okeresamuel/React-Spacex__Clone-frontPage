@@ -12,6 +12,6 @@
 .btn__container{
     position: relative;
     color: white;
-    padding: 20px;
-    top: 390px;
+    display:none;
+    top: 300px;
 }
