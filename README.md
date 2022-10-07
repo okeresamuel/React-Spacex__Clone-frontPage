@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # Project image
 ![](./src/assets/images/Screenshot%20(76).png?raw=true "Title")
-![](https://celadon-pastelito-9536d8.netlify.app/?raw=true "Title")
+#### https://celadon-pastelito-9536d8.netlify.app/
