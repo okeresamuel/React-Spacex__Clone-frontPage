@@ -1,17 +1,17 @@
 .ImageOne__Container{
     width:100%;
-    height:100vh;
+   
 }
 .Image__One{
     width:100%;
     height:100%;
-   
+    object-fit: cover;
     position: absolute;
 }
 
 .btn__container{
     position: relative;
     color: white;
-    display:none;
+    padding: 20px;
     top: 300px;
 }
