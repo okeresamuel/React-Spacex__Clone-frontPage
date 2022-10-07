@@ -1,0 +1,18 @@
+.spacex__Logo{
+   
+    object-fit: contain;
+    z-index: 7;
+    width:190px;
+    position: absolute;
+    left:2%;
+    top: 35%;
+}
+
+@media (max-width:1200px){
+    .spacex__Logo{
+     left: 50%;
+     transform: translate(-50%, -50%);
+     top: 54%;
+     cursor: pointer;
+    }
+}

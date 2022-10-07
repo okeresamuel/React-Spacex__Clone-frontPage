@@ -1,0 +1,20 @@
+
+.Footer__container{
+  text-decoration:none;
+  background-color:black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  height:90px;
+}
+.Andcopy__2022Text{
+    color:rgb(151, 151, 151);
+}
+a{
+    text-decoration: none;
+    color: white;
+    margin: 10px 5px 10px 5px;
+    font-size:12px;
+    text-transform:uppercase;
+}
